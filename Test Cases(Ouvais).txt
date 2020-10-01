@@ -1,0 +1,91 @@
+Test Case - 1
+
+Test name: Create new order
+
+Test Description: As a user for Beach T-Shirts co, I should be able to call a method to create a new order that accepts a numerical quantity of T-Shirts.
+
+Desired outcome: I should be able to verify on the Remix IDE that my new order has been
+created.
+
+Actual outcome: On testing, I validated that the actual outcome matches the desired
+outcome
+
+Result: Pass
+
+-------------------------------------
+
+Test Case - 2
+
+Test name: Checking Status of the order
+
+Test Description: As a user for Beach T-Shirts co, I should be able to call a method to check the status of the tshirt.
+
+Desired outcome: I should be able to check on the Remix IDE that my new order has been
+created and what's the status of the t-shirt order i.e. it's either "completed" or "not completed"
+
+Actual outcome: On testing, I validated that the actual outcome matches the desired
+outcome
+
+Result: Pass
+
+-------------------------------------
+
+Test Case - 3
+
+Test name: Checking Total amount of the order
+
+Test Description: As a user for Beach T-Shirts co, I should be able to call a method to check the total amout of the tshirts which i bought.
+
+Desired outcome: I should be able to check on the Remix IDE that the order which i have created is how much worth i.e. the total amount of the order
+
+Actual outcome: On testing, I validated that the actual outcome matches the desired
+outcome
+
+Result: Pass
+
+-------------------------------------
+
+Test Case - 4
+
+Test name: Check the t-shirt quantity
+
+Test Description: As a user for Beach T-Shirts co, I should be able to call a method to view the total number of t-shirt which i ordered
+
+Desired outcome: I should be able to check the number of t-shirt bought.
+
+Actual outcome: On testing, I validated that the actual outcome matches the desired
+outcome
+
+Result: Pass
+
+-------------------------------------
+
+Test Case - 5
+
+Test name: Orderstatus set to completed
+
+Test Description: As a user for Beach T-Shirts co, I should be able to call a method to set the order complted when the user set the T-shirt quantity
+
+Desired outcome: I should be able to verify on the Remix IDE that status has been set to COmpleted and Quantity has been set to the number entered by the user.
+
+Actual outcome: On testing, I validated that the actual outcome matches the desired
+outcome
+
+Result: Pass
+
+-------------------------------------
+
+Test Case - 6
+
+Test name: Show the information of the Buyer with their address
+
+Test Description: As a user for Beach T-Shirts co, I should be able to call a method to show who is cureenty buying the tshirts
+
+Desired outcome: I should be able to set the cureent user as a buying. Means the Ethereum account should not be able to act on behalf of both entities. 
+
+Actual outcome: On testing, I validated that the actual outcome matches the desired
+outcome
+
+Result: Pass
+
+-------------------------------------
